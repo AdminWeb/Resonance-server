@@ -7,6 +7,7 @@ Requirements
 ------------
 
 Node.js >= 6.0.0
+
 Redis Server
 
 How to install
